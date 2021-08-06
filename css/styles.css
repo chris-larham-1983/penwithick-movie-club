@@ -164,7 +164,7 @@ are correctly displayed (i.e. not hidden behind the 200px-tall fixed <header>): 
     top: 200px;
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 100% 100%;
+    background-size: cover;
     margin-left: auto;
     margin-right: auto;
     display: flex;
